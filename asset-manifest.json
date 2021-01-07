@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c83e10c4.chunk.css",
-    "main.js": "/static/js/main.b73b914f.chunk.js",
-    "main.js.map": "/static/js/main.b73b914f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4aaba176.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4aaba176.js.map",
-    "static/js/2.d7f6184f.chunk.js": "/static/js/2.d7f6184f.chunk.js",
-    "static/js/2.d7f6184f.chunk.js.map": "/static/js/2.d7f6184f.chunk.js.map",
-    "static/js/3.9153616f.chunk.js": "/static/js/3.9153616f.chunk.js",
-    "static/js/3.9153616f.chunk.js.map": "/static/js/3.9153616f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c83e10c4.chunk.css.map": "/static/css/main.c83e10c4.chunk.css.map",
-    "static/js/2.d7f6184f.chunk.js.LICENSE.txt": "/static/js/2.d7f6184f.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/static/media/bg-curve-desktop.37e8a645.svg",
-    "static/media/hero.63179a78.png": "/static/media/hero.63179a78.png",
-    "static/media/logo.dc33823e.png": "/static/media/logo.dc33823e.png",
-    "static/media/signup.d2f15fc6.png": "/static/media/signup.d2f15fc6.png"
+    "main.css": "/newms/static/css/main.684ae287.chunk.css",
+    "main.js": "/newms/static/js/main.b73b914f.chunk.js",
+    "main.js.map": "/newms/static/js/main.b73b914f.chunk.js.map",
+    "runtime-main.js": "/newms/static/js/runtime-main.3817d3bb.js",
+    "runtime-main.js.map": "/newms/static/js/runtime-main.3817d3bb.js.map",
+    "static/js/2.d7f6184f.chunk.js": "/newms/static/js/2.d7f6184f.chunk.js",
+    "static/js/2.d7f6184f.chunk.js.map": "/newms/static/js/2.d7f6184f.chunk.js.map",
+    "static/js/3.9153616f.chunk.js": "/newms/static/js/3.9153616f.chunk.js",
+    "static/js/3.9153616f.chunk.js.map": "/newms/static/js/3.9153616f.chunk.js.map",
+    "index.html": "/newms/index.html",
+    "static/css/main.684ae287.chunk.css.map": "/newms/static/css/main.684ae287.chunk.css.map",
+    "static/js/2.d7f6184f.chunk.js.LICENSE.txt": "/newms/static/js/2.d7f6184f.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/newms/static/media/bg-curve-desktop.37e8a645.svg",
+    "static/media/hero.63179a78.png": "/newms/static/media/hero.63179a78.png",
+    "static/media/logo.dc33823e.png": "/newms/static/media/logo.dc33823e.png",
+    "static/media/signup.d2f15fc6.png": "/newms/static/media/signup.d2f15fc6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4aaba176.js",
+    "static/js/runtime-main.3817d3bb.js",
     "static/js/2.d7f6184f.chunk.js",
-    "static/css/main.c83e10c4.chunk.css",
+    "static/css/main.684ae287.chunk.css",
     "static/js/main.b73b914f.chunk.js"
   ]
 }
