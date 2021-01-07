@@ -1,0 +1,34 @@
+.contact-edit {
+	text-align: center;
+
+	.back-button {
+		display: block;
+		button {
+			padding-left: 1.5rem;
+			padding-right: 1.5rem;
+			padding-top: 0.4rem;
+			padding-bottom: 0.4rem;
+			font-size: 1rem;
+			border: 3px solid #f9cb07;
+			background-color: rgba(255, 255, 255, 0.146);
+			color: #f9cb07;
+			margin-bottom: 2rem;
+		}
+	}
+	form {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		& > * {
+			margin-top: 1rem;
+		}
+	}
+	span {
+		button:first-child {
+			margin-right: 1rem;
+		}
+		.delete {
+			margin-left: 1rem;
+		}
+	}
+}

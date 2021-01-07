@@ -1,0 +1,33 @@
+@import "../../assets/scss/setup/variables";
+@import "../../assets/scss/setup/functions";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@500&display=swap');
+.main-navbar {
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color:$clr2;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    a{
+        text-decoration: none;
+        cursor: pointer;
+    }
+.logo{
+img{
+    min-width: 80px;
+    max-width: 150px;
+}
+}
+.pages{
+    font-size: 1rem;
+    color: $clr5;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    :not(:last-child) {
+        margin-right: 2rem;
+    }
+}
+}

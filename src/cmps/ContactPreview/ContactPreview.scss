@@ -1,0 +1,11 @@
+.contact-preview {
+	display: flex;
+	flex-direction: column;
+	margin: 3rem;
+	img {
+		width: 100px;
+		height: 100px;
+		margin-bottom: 1rem;
+	}
+	align-items: center;
+}

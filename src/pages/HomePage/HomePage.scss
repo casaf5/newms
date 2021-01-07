@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@500&display=swap');
+@import "../../assets/scss/setup/variables";
+@import "../../assets/scss/setup/functions";
+
+.home-page {
+	.hero-img {
+		width: rem(860px);
+		height: rem(700px);
+		object-fit: contain;
+	}
+	text-align: center;
+	margin: 0 auto;
+	width: 100vw;
+
+	.hero {
+		display: flex;
+		text-align: left;
+		flex-direction: row-reverse;
+		justify-content: center;
+		justify-content: space-between;
+		align-items: center;
+		flex-wrap: wrap;
+		h1 {
+            font-family: 'Poppins', sans-serif;
+			font-size: 6.5rem;
+			color:$clr5;
+			font-weight: 700;
+		}
+		h3{
+			font-size: 2rem;
+			font-weight: 100;
+			font-family: 'Open Sans', sans-serif;
+			color: $clr5;
+		}
+	}
+}
